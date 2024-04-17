@@ -1,15 +1,13 @@
 # CSS545-Initial-Mockup
 
 Initial Mockup - Blood Bank 
-Please download the word/ pdf file to see the UI mockups, Thank you
-Team Members : Hari Krishnan Raj Kumar, Lakshmi KS, Nidhi Kumar, Shristi Shrivastava
 
-Data flow:
-This below diagram explains how the user accesses all the functionalities and how the User interacts with.
- 
+Please download the word/ pdf file to see the UI mockups, Thank you
+
+Team Members : Hari Krishnan Raj Kumar, Lakshmi KS, Nidhi Kumar, Shristi Shrivastava
 					
 
-UI Mockup:
+Data flow & UI Mockup:
 Please download the word/ pdf file to see the UI mockups, Thank you
 
 
